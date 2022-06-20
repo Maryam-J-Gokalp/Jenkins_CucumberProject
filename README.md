@@ -1,4 +1,4 @@
-# simple-cucumber-demo
+# Jenkins Project
 Basic cucumber framework used for running automation tests on Jenkins.
 
 ## Running locally
