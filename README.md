@@ -1,8 +1,8 @@
 # Jenkins Project
-Basic cucumber framework used for running automation tests on Jenkins.
+This framework is a basic to run jenkins automation project (basico projecto de cucumber usando jenkins project) 
 
 ## Running locally
-To run locally and generate HTML reports, use this maven goal *verify*. HTML reports should be generated under target/cucumber-html-reports
+WE To run locally *verify*. HTML reports should be generated under target/cucumber-html-reports
 mvn verify
 
 ## Jenkins
